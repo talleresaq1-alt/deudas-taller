@@ -1,6 +1,6 @@
 # Deudas y trabajos · versión móvil
 
-Aplicación de consulta adaptada al móvil. Permite buscar y filtrar presupuestos y pagos, y abrir el enlace de presupuesto guardado en la columna NUMERO del Excel.
+Aplicación de consulta adaptada al móvil. Permite buscar y filtrar presupuestos y pagos, abrir el enlace del presupuesto y ver anotaciones guardadas en las columnas de pagos o fechas.
 
 ## Cargar el libro
 
@@ -13,5 +13,6 @@ El lector de Excel se carga desde el CDN oficial de SheetJS, por lo que hace fal
 Para instalarla como aplicación, hay que alojar esta carpeta en un sitio HTTPS. Después abre su dirección en el navegador del móvil y elige **Añadir a pantalla de inicio** o **Instalar aplicación**. El alojamiento y el inicio de sesión privado todavía no están configurados.
 
 Esta primera versión no sincroniza los datos automáticamente: hay que seleccionar el archivo actualizado cuando se quiera consultar la última versión. El Excel original y sus macros siguen siendo el archivo de trabajo.
+
 
 
